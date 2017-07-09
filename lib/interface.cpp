@@ -1,5 +1,5 @@
 module pets;
 
-export module pets.base;
+export module pets.pet;
 export module pets.dog;
 

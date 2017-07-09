@@ -1,6 +1,5 @@
 import std.core;
-
-module pets.base;
+module pets.pet;
 
 export class Pet
 {

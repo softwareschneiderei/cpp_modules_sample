@@ -1,6 +1,6 @@
 module pets.dog;
 import std.core;
-import pets.base;
+import pets.pet;
 
 export class Dog : public Pet
 {
